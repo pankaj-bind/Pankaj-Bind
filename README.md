@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Bind</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-bind" alt="pankaj-bind" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@_pankaj_bind" target="blank"><img src="https://img.shields.io/twitter/follow/@_pankaj_bind?logo=twitter&style=for-the-badge" alt="@_pankaj_bind" /></a> </p>
 
