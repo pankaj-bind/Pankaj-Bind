@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Bind</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Android App Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
