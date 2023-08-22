@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pankaj Kumar Bind</h1>
+<h1 align="center"><a href="https://github.com/Pankaj-Bind"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=435&lines=Hi%2C+I'm+Pankaj+Kumar+Bind" alt="Typing SVG" /></a> </h1>
 <h3 align="center">A passionate Full Stack Developer and Android App Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
