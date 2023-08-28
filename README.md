@@ -34,6 +34,6 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pankaj-Bind&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://github.com/Pankaj-Bind)
-
+![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
 ![](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/master/generated/languages.svg)
 
