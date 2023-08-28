@@ -34,9 +34,6 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pankaj-Bind&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://github.com/Pankaj-Bind)
-![Pankaj's Github Profile Views](https://komarev.com/ghpvc/?username=Pankaj-Bind&color=blueviolet)  
 
-
-![](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/master/generated/overview.svg)
 ![](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/master/generated/languages.svg)
 
