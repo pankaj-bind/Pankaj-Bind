@@ -43,7 +43,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pankaj-Bind&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pankaj-Bind&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # [My Resume](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/main/Pankaj_Kumar_Bind_Resume.pdf)
 
