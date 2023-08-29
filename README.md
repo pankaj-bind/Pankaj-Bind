@@ -43,7 +43,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pankaj-Bind&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://raw.githubusercontent.com/Pankaj-Bind/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-
 # [My Resume](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/main/Pankaj_Kumar_Bind_Resume.pdf)
 
