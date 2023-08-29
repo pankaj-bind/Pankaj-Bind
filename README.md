@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer and Android App Developer from India</h3>
 
 
-<p align="left"><img src="https://img.shields.io/twitter/follow/@_pankaj_bind?logo=twitter&style=for-the-badge" alt="@_pankaj_bind" /></a> </p>
-
 - 🌱 I’m currently learning **Android App Development, Full stack Web Development**
 
 - 💬 Ask me about **JAVA, HTML, CSS, php, JavaScript, MySQL, C, Python, Android App Development, Git, GitHub**
