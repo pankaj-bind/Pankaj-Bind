@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515) <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pankaj-Bind&theme=react&line_height=40&hide=css"/> </a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&theme=black-ice)
 
