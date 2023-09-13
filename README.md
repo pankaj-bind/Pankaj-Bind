@@ -23,18 +23,6 @@
 
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515) 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true"
-    media="(prefers-color-scheme: transparent), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true" />
-</picture>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&theme=black-ice)
 
 <h1 align="left">🔝 Top Contributed Repo:</h1>
