@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pankajbind30@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,django,eclipse,firebase,git,github,githubactions,hibernate,html,idea,instagram,java,js,kotlin,linkedin,linux,maven,mongodb,mysql,nextjs,nodejs,php,py,react,spring,twitter,vscode&perline=3)](https://skillicons.dev)
 
 <h2 align="left">GitHub Stats:</h2>
 
