@@ -17,7 +17,7 @@
 <a href="https://instagram.com/_pankaj_bind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pankaj_bind" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">📊 GitHub Stats:</h1>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 | <a href="https://github.com/Pankaj-Bind/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Pankaj-Bind/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&theme=transparent" /></a> |
 | ------------- | ------------- |
