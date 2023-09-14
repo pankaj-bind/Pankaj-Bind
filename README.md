@@ -3,14 +3,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=Pankaj-Bind&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="left">💫 About Me:</h1>
+<h2 align="left">💫 About Me:</h2>
 - 🌱 I’m currently learning **Android App Development, Full stack Web Development**
 
 - 💬 Ask me about **JAVA, HTML, CSS, php, JavaScript, MySQL, C, Python, Android App Development, Git, GitHub**
 
 - 📫 How to reach me **pankajbind30@gmail.com**
 
-<h1 align="left">🌐 Socials:</h1>
+<h2 align="left">🌐 Socials:</h2>
 <p align="left"> 
 <a href="https://twitter.com/@_pankaj_bind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_pankaj_bind" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pankajbind3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankajbind3" height="30" width="40" /></a>
