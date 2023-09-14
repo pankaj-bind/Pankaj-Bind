@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515) 
 
-[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent)]
+[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent)](https://github.com/Pankaj-Bind/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&theme=black-ice)
 
