@@ -19,9 +19,9 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515) 
+| <a href="https://github.com/Pankaj-Bind/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Pankaj-Bind/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Bind&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&theme=black-ice)
 
