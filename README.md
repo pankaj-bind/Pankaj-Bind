@@ -21,7 +21,7 @@
 
 <a href="https://github.com/Pankaj-Bind/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Pankaj's github stats" /></a> 
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=radical)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent)
 
 <a href="https://github.com/Pankaj-Bind/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Pankaj's github stats" /></a> 
 
