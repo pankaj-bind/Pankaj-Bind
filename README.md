@@ -25,10 +25,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bind&theme=black-ice)
 
-<h1 align="left">🔝 Top Contributed Repo:</h1>
-
-![](https://github-contributor-stats.vercel.app/api?username=Pankaj-Bind&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 
 # [My Resume](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/main/Pankaj_Kumar_Bind_Resume.pdf)
