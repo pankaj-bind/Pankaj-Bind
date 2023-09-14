@@ -25,5 +25,5 @@
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
 ---
 
-# [My Resume](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/main/Pankaj_Kumar_Bind_Resume.pdf)
+# [<h2>My Resume</h2>](https://github.com/Pankaj-Bind/Pankaj-Bind/blob/main/Pankaj_Kumar_Bind_Resume.pdf)
 
