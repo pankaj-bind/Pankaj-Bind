@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **pankajbind30@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,eclipse,idea,firebase,spring,maven,angular,django,git,github,githubactions,hibernate,html,instagram,js,kotlin,linkedin,linux,mongodb,mysql,nextjs,nodejs,php,py,react,twitter,vscode&perline=10)](https://skillicons.dev)
-
 <h2 align="left">GitHub Stats:</h2>
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent&hide_border=true)
@@ -20,3 +18,4 @@
 
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
 
+[![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Bind&theme=github-compact	)](https://github.com/Pankaj-Bind/github-readme-activity-graph)
