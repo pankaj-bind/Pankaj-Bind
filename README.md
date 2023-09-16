@@ -10,12 +10,6 @@
 <h2 align="left">GitHub Stats:</h2>
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent&hide_border=true)
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pankaj-Bind&theme=transparent" />
-    <img src="https://streak-stats.demolab.com?user=Pankaj-Bind&theme=transparent" />
-</picture>
-
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
 
 
