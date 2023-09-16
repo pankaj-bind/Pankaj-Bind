@@ -9,7 +9,7 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent&hide_border=true) ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent&hide_border=true) ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
 
 
 [![Pankaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Bind&theme=github-compact&hide_border=true	)](https://github.com/Pankaj-Bind/github-readme-activity-graph)
