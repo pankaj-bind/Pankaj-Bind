@@ -11,8 +11,7 @@
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj-Bind&show_icons=true&theme=transparent&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Bind&theme=transparent&hide_border=true&border_radius=0&locale=en)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankaj-Bind&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Pankaj-Bind&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
 
 
