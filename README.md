@@ -6,4 +6,3 @@
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj-bind&show_icons=true&theme=transparent&hide_border=true)![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=pankaj-bind&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) 
 
-https://pastebin.com/GNptqviJ
